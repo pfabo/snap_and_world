@@ -2,6 +2,9 @@
 
 A few examples of how to attach *snap!* (https://snap.berkeley.edu/) to the real world ...
 
-01. Snap! and Arduino - Arduino on-board LED simple control via HTTP Server
-02. Snap! and Arduino - Arduino as analog/digital input/output board
-03. 
+Contents:
+
+1. Snap! and Arduino - Arduino on-board LED simple control via HTTP Server
+2. Snap! and Arduino - Arduino as simple analog/digital input/output board
+3. Snap! and Arduino - Simple physical experiments 
+4. ...
